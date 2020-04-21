@@ -1,3 +1,9 @@
+calamares-settings-ubuntudde (1.0.0-7) focal; urgency=high
+
+  * Changed sidebar color code and height of the installer
+
+ -- Arun Kumar Pariyar <expertaruncorp@gmail.com>  Wed, 22 Apr 2020 00:15:29 +0545
+
 calamares-settings-ubuntudde (1.0.0-6) focal; urgency=high
 
   * Added calamares sidebar background color.

@@ -2,7 +2,7 @@
 componentName: ubuntudde
 
 windowExpanding:    normal
-windowSize: 800px,520px
+windowSize: 800px,500px
 
 windowPlacement: center
 
@@ -27,6 +27,6 @@ slideshow:               "show.qml"
 slideshowAPI:            1
 
 style:
-   sidebarBackground:    "#0097F4"
+   sidebarBackground:    "#33669A"
    sidebarText:          "#FFFFFF"
    sidebarTextSelect:    "#0097F4"
