@@ -1,0 +1,34 @@
+Source: calamares-settings-ubuntudde
+Section: devel
+Priority: optional
+Maintainer: Ubuntu DDE Developers <ubuntudde-dev@lists.launchpad.net>
+Uploaders: Arun Kumar Pariyar <expertaruncorp@gmail.com>
+Build-Depends: debhelper (>= 12),
+               intltool,
+               qttools5-dev-tools
+Standards-Version: 4.5.0
+Homepage: https://github.com/ubuntudde
+Vcs-Git: https://github.com/ubuntudde
+Vcs-Browser: https://github.com/ubuntudde
+
+Package: calamares-settings-ubuntudde
+Architecture: all
+Depends: calamares-settings-ubuntu-common (>= ${binary:Version}),
+         ${misc:Depends}
+Conflicts: calamares-settings-ubuntudde
+Description: UbuntuDDE Calamares Settings and Branding
+ This package contains the Calamares settings and branding for UbuntuDDE.
+ As part of the branding the installer slideshow is contained within.
+ The settings ensure a proper UbuntuDDE desktop is installed with the
+ LXQt desktop environment.
+
+Package: calamares-settings-ubuntu-common
+Architecture: any
+Depends: calamares (>= 3.2.14~),
+         squashfs-tools,
+         python3,
+         ${misc:Depends}
+Description: Common Calamares Settings
+ This package contains the common Calamares settings for all flavors.
+ There is also a automirror Python script to set sources based on
+ geolocation.

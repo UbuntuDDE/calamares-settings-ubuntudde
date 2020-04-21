@@ -1,0 +1,13 @@
+[Desktop Entry]
+Categories=Qt;System;
+Exec=bash -c "export BROWSER='sudo -H -u ubuntudde firefox'; sudo -E calamares"
+Icon=calamares
+Keywords=installer;calamares;system;
+StartupNotify=true
+Terminal=false
+Type=Application
+Version=1.0
+X-Deepin-Vendor=user-custom
+Comment=Calamares — System Installer
+GenericName=Install UbuntuDDE
+Name=Install UbuntuDDE 20.04 LTS

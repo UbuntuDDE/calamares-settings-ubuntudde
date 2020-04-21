@@ -1,0 +1,23 @@
+calamares-settings-ubuntudde (1.0.0-6) focal; urgency=high
+
+  * Added calamares sidebar background color.
+
+ -- Arun Kumar Pariyar <expertaruncorp@gmail.com>  Fri, 10 Apr 2020 17:23:41 +0545
+
+calamares-settings-ubuntudde (1.0.0-4) focal; urgency=high
+
+  * Changed the sequence of exec to fix the apt-cdrom issue on the installer
+
+ -- Arun Kumar Pariyar <expertaruncorp@gmail.com>  Thu, 09 Apr 2020 12:39:22 +0545
+
+calamares-settings-ubuntudde (1.0.0-2) focal; urgency=high
+
+  * Changed windowExpanding to normal
+
+ -- Arun Kumar Pariyar <expertaruncorp@gmail.com>  Sun, 05 Apr 2020 12:07:54 +0545
+
+calamares-settings-ubuntudde (1.0.0-1) focal; urgency=high
+
+  * Initial Release
+
+ -- Arun Kumar Pariyar <expertaruncorp@gmail.com>  Sat, 04 Apr 2020 20:56:46 +0545
