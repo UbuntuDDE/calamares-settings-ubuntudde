@@ -1,3 +1,15 @@
+calamares-settings-ubuntudde (1.0.0-9) focal; urgency=high
+
+  * Changed Calamares Installer height to 485px
+
+ -- Arun Kumar Pariyar <expertaruncorp@gmail.com>  Fri, 01 May 2020 21:44:28 +0545
+
+calamares-settings-ubuntudde (1.0.0-8) focal; urgency=high
+
+  * Changed the Min RAM Required to 1.5G
+
+ -- Arun Kumar Pariyar <expertaruncorp@gmail.com>  Wed, 22 Apr 2020 12:10:13 +0545
+
 calamares-settings-ubuntudde (1.0.0-7) focal; urgency=high
 
   * Changed sidebar color code and height of the installer
