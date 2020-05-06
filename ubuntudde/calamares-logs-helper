@@ -6,7 +6,10 @@ root=$1
 install_dir=$root/var/log/installer
 [ -d $install_dir ] || mkdir -p $install_dir
 
-cp /home/ubuntudde/.cache/calamares/session.log $install_dir/debug
+SESSION_LOG=/home/ubuntudde/.cache/calamares/session.log
+if [[ -f "$SESSION_LOG"]]; then
+        cp $SESSION_LOG $install_dir/debug
+fi
 
 cp /cdrom/.disk/info $install_dir/media-info
 cp /var/log/casper.log $install_dir/casper.log
