@@ -9,5 +9,5 @@ Type=Application
 Version=1.0
 X-Deepin-Vendor=user-custom
 Comment=Calamares — System Installer
-GenericName=Install UbuntuDDE
-Name=Install UbuntuDDE 20.04 LTS
+GenericName=Install UbuntuDDE Remix
+Name=Install UbuntuDDE Remix
