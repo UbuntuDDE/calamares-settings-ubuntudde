@@ -18,11 +18,11 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../ubuntudde-calamares.desktop.in.h:1
-msgid "Install UbuntuDDE 20.04 LTS"
+msgid "Install UbuntuDDE Remix"
 msgstr ""
 
 #: ../ubuntudde-calamares.desktop.in.h:2
-msgid "Install UbuntuDDE"
+msgid "Install UbuntuDDE Remix"
 msgstr ""
 
 #: ../ubuntudde-calamares.desktop.in.h:3
