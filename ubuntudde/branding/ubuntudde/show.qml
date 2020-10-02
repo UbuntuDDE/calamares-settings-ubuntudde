@@ -27,7 +27,7 @@ Presentation
      Slide {
         Image {
             anchors.centerIn: parent
-            id: image1
+            id: image2
             x:0
             y:0
             width: 810
@@ -40,7 +40,7 @@ Presentation
      Slide {
         Image {
             anchors.centerIn: parent
-            id: image1
+            id: image3
             x:0
             y:0
             width: 810
@@ -53,7 +53,7 @@ Presentation
      Slide {
         Image {
             anchors.centerIn: parent
-            id: image1
+            id: image4
             x:0
             y:0
             width: 810
@@ -66,7 +66,7 @@ Presentation
     Slide {
         Image {
             anchors.centerIn: parent
-            id: image1
+            id: image5
             x:0
             y:0
             width: 810
@@ -79,7 +79,7 @@ Presentation
      Slide {
         Image {
             anchors.centerIn: parent
-            id: image1
+            id: image6
             x:0
             y:0
             width: 810
