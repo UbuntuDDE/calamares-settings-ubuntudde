@@ -11,7 +11,72 @@ Presentation
         repeat: true
         onTriggered: presentation.goToNextSlide()
     }
+     Slide {
+        Image {
+            anchors.centerIn: parent
+            id: image1
+            x:0
+            y:0
+            width: 810
+            height: 485
+            fillMode: Image.PreserveAspectFit
+            smooth: true
+            source: "dde-file-manager.png"
+        }
+    }
+     Slide {
+        Image {
+            anchors.centerIn: parent
+            id: image1
+            x:0
+            y:0
+            width: 810
+            height: 485
+            fillMode: Image.PreserveAspectFit
+            smooth: true
+            source: "ubuntudde-system-info.png"
+        }
+    }
+     Slide {
+        Image {
+            anchors.centerIn: parent
+            id: image1
+            x:0
+            y:0
+            width: 810
+            height: 485
+            fillMode: Image.PreserveAspectFit
+            smooth: true
+            source: "dde-control-center.png"
+        }
+    }
+     Slide {
+        Image {
+            anchors.centerIn: parent
+            id: image1
+            x:0
+            y:0
+            width: 810
+            height: 485
+            fillMode: Image.PreserveAspectFit
+            smooth: true
+            source: "deepin-terminal.png"
+        }
+    }
     Slide {
+        Image {
+            anchors.centerIn: parent
+            id: image1
+            x:0
+            y:0
+            width: 810
+            height: 485
+            fillMode: Image.PreserveAspectFit
+            smooth: true
+            source: "personalization.png"
+        }
+    }
+     Slide {
         Image {
             anchors.centerIn: parent
             id: image1
