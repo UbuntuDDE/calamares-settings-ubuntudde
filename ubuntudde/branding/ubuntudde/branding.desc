@@ -7,13 +7,13 @@ windowSize: 800px,500px
 windowPlacement: center
 
 strings:
-    productName:         UbuntuDDE
+    productName:         UbuntuDDE Remix
     shortProductName:    UbuntuDDE
-    version:             20.04 LTS
-    shortVersion:        focal
+    version:             20.10 LTS
+    shortVersion:        groovy
     versionedName:       UbuntuDDE
-    shortVersionedName:  UbuntuDDE 20.04 LTS
-    bootloaderEntryName: Ubuntu
+    shortVersionedName:  UbuntuDDE 20.10 LTS
+    bootloaderEntryName: UbuntuDDE
     productUrl:          https://ubuntudde.com/
     supportUrl:          https://ubuntudde.com/help/
 
