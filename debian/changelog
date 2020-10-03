@@ -1,3 +1,17 @@
+calamares-settings-ubuntudde (2.0.4-1) groovy; urgency=medium
+
+  * Changed apt-cdrom add timeout to 120.
+
+ -- Arun Kumar Pariyar <expertaruncorp@gmail.com>  Sun, 04 Oct 2020 02:35:55 +0545
+
+calamares-settings-ubuntudde (2.0.3-1) groovy; urgency=medium
+
+  * Disabled oem mod.
+  * fixed double installer icon.
+  * Add desktop to Desktop.
+
+ -- Arun Kumar Pariyar <expertaruncorp@gmail.com>  Sun, 04 Oct 2020 01:33:00 +0545
+
 calamares-settings-ubuntudde (2.0.2-1) groovy; urgency=medium
 
   * Enabled oem mode.

@@ -1,5 +1,6 @@
 ubuntudde/branding/ etc/calamares/
 ubuntudde/calamares-logs-helper usr/bin/
 ubuntudde/ubuntudde-calamares.desktop usr/share/applications/
+ubuntudde/ubuntudde-calamares.desktop /home/ubuntudde/Desktop/
 ubuntudde/modules/ etc/calamares/
 ubuntudde/settings.conf etc/calamares/
