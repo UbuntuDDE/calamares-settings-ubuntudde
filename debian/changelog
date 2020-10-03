@@ -1,3 +1,17 @@
+calamares-settings-ubuntudde (2.0.2-1) groovy; urgency=medium
+
+  * Enabled oem mode.
+  * updated installer icon and info page.
+  * Changed QT_QPA_PLATFORMTHEME to gtk3 as the checkbox is not working in QT5.
+
+ -- Arun Kumar Pariyar <expertaruncorp@gmail.com>  Sat, 03 Oct 2020 15:48:53 +0545
+
+calamares-settings-ubuntudde (2.0.1) groovy; urgency=emergency
+
+  * Preparing for groovy upload.
+
+ -- Arun Kumar Pariyar <expertaruncorp@gmail.com>  Fri, 02 Oct 2020 23:45:19 +0545
+
 calamares-settings-ubuntudde (1.0.1) focal; urgency=emergency
 
   * Added check for session.log file.
