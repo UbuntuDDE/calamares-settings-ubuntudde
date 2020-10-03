@@ -17,7 +17,7 @@ Presentation
             id: image1
             x:0
             y:0
-            width: 810
+            width: 800
             height: 485
             fillMode: Image.PreserveAspectFit
             smooth: true
@@ -30,7 +30,7 @@ Presentation
             id: image2
             x:0
             y:0
-            width: 810
+            width: 800
             height: 485
             fillMode: Image.PreserveAspectFit
             smooth: true
@@ -43,7 +43,7 @@ Presentation
             id: image3
             x:0
             y:0
-            width: 810
+            width: 800
             height: 485
             fillMode: Image.PreserveAspectFit
             smooth: true
@@ -56,7 +56,7 @@ Presentation
             id: image4
             x:0
             y:0
-            width: 810
+            width: 800
             height: 485
             fillMode: Image.PreserveAspectFit
             smooth: true
@@ -69,7 +69,7 @@ Presentation
             id: image5
             x:0
             y:0
-            width: 810
+            width: 800
             height: 485
             fillMode: Image.PreserveAspectFit
             smooth: true
@@ -82,7 +82,7 @@ Presentation
             id: image6
             x:0
             y:0
-            width: 810
+            width: 800
             height: 485
             fillMode: Image.PreserveAspectFit
             smooth: true
