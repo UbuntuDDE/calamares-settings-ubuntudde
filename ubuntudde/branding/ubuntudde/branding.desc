@@ -13,7 +13,7 @@ strings:
     shortVersion:        groovy
     versionedName:       UbuntuDDE
     shortVersionedName:  UbuntuDDE 20.10 LTS
-    bootloaderEntryName: UbuntuDDE
+    bootloaderEntryName: ubuntu
     productUrl:          https://ubuntudde.com/
     supportUrl:          https://ubuntudde.com/help/
 

@@ -1,3 +1,15 @@
+calamares-settings-ubuntudde (2.0.6-1) groovy; urgency=medium
+
+  * switch GeoIP to Cannonical.
+
+ -- Arun Kumar Pariyar <expertaruncorp@gmail.com>  Thu, 22 Oct 2020 12:27:08 +0545
+
+calamares-settings-ubuntudde (2.0.5-4) groovy; urgency=medium
+
+  * Changed bootloaderEntryName to ubuntu.
+
+ -- Arun Kumar Pariyar <expertaruncorp@gmail.com>  Sun, 04 Oct 2020 22:44:58 +0545
+
 calamares-settings-ubuntudde (2.0.4-1) groovy; urgency=medium
 
   * Changed apt-cdrom add timeout to 120.
