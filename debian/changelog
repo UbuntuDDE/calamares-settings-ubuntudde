@@ -1,3 +1,15 @@
+calamares-settings-ubuntudde (2.0.8-1) hirsute; urgency=medium
+
+  * Refactored to hirsute.
+
+ -- Arun Kumar Pariyar <openarungeek@gmail.com>  Sun, 28 Mar 2021 21:54:59 +0545
+
+calamares-settings-ubuntudde (2.0.7-1) groovy; urgency=medium
+
+  * Changed the color of sidebar to a bit more blue.
+
+ -- Arun Kumar Pariyar <expertaruncorp@gmail.com>  Sat, 24 Oct 2020 13:28:00 +0545
+
 calamares-settings-ubuntudde (2.0.6-1) groovy; urgency=medium
 
   * switch GeoIP to Cannonical.

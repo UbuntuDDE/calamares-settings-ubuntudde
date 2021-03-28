@@ -9,10 +9,10 @@ windowPlacement: center
 strings:
     productName:         UbuntuDDE Remix
     shortProductName:    UbuntuDDE
-    version:             20.10 LTS
-    shortVersion:        groovy
+    version:             21.04 LTS
+    shortVersion:        hirsute
     versionedName:       UbuntuDDE
-    shortVersionedName:  UbuntuDDE 20.10 LTS
+    shortVersionedName:  UbuntuDDE 21.04 LTS
     bootloaderEntryName: ubuntu
     productUrl:          https://ubuntudde.com/
     supportUrl:          https://ubuntudde.com/help/
@@ -27,6 +27,6 @@ slideshow:               "show.qml"
 slideshowAPI:            1
 
 style:
-   sidebarBackground:    "#33669A"
+   sidebarBackground:    "#2268d7"
    sidebarText:          "#FFFFFF"
-   sidebarTextSelect:    "#0097F4"
+   sidebarTextSelect:    "#1845a2"
