@@ -1,3 +1,9 @@
+calamares-settings-ubuntudde (2.0.8-2) hirsute; urgency=medium
+
+  * Reupload with i386 support.
+
+ -- Arun Kumar Pariyar <openarungeek@gmail.com>  Sun, 28 Mar 2021 22:03:23 +0545
+
 calamares-settings-ubuntudde (2.0.8-1) hirsute; urgency=medium
 
   * Refactored to hirsute.
