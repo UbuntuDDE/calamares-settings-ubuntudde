@@ -9,13 +9,13 @@ windowPlacement: center
 strings:
     productName:         UbuntuDDE Remix
     shortProductName:    UbuntuDDE
-    version:             21.04 LTS
+    version:             21.04
     shortVersion:        hirsute
     versionedName:       UbuntuDDE
-    shortVersionedName:  UbuntuDDE 21.04 LTS
+    shortVersionedName:  UbuntuDDE 21.04
     bootloaderEntryName: ubuntu
     productUrl:          https://ubuntudde.com/
-    supportUrl:          https://ubuntudde.com/help/
+    supportUrl:          https://ubuntudde.com/support/
 
 images:
     productLogo:         "logo.png"
