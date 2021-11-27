@@ -3,10 +3,10 @@ Section: devel
 Priority: optional
 Maintainer: Ubuntu DDE Developers <ubuntudde-dev@lists.launchpad.net>
 Uploaders: Arun Kumar Pariyar <expertaruncorp@gmail.com>
-Build-Depends: debhelper (>= 12),
+Build-Depends: debhelper-compat (= 13),
                intltool,
                qttools5-dev-tools
-Standards-Version: 4.5.0
+Standards-Version: 4.6.0
 Homepage: https://github.com/ubuntudde
 Vcs-Git: https://github.com/ubuntudde
 Vcs-Browser: https://github.com/ubuntudde

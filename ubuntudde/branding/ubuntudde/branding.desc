@@ -9,10 +9,10 @@ windowPlacement: center
 strings:
     productName:         UbuntuDDE Remix
     shortProductName:    UbuntuDDE
-    version:             21.04
-    shortVersion:        hirsute
+    version:             21.10
+    shortVersion:        impish
     versionedName:       UbuntuDDE
-    shortVersionedName:  UbuntuDDE 21.04
+    shortVersionedName:  UbuntuDDE 21.10
     bootloaderEntryName: ubuntu
     productUrl:          https://ubuntudde.com/
     supportUrl:          https://ubuntudde.com/support/
