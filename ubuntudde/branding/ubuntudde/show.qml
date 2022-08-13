@@ -34,7 +34,7 @@ Presentation
             height: 485
             fillMode: Image.PreserveAspectFit
             smooth: true
-            source: "ubuntudde-system-info.png"
+            source: "dde-control-center.png"
         }
     }
      Slide {
@@ -47,26 +47,13 @@ Presentation
             height: 485
             fillMode: Image.PreserveAspectFit
             smooth: true
-            source: "dde-control-center.png"
-        }
-    }
-     Slide {
-        Image {
-            anchors.centerIn: parent
-            id: image4
-            x:0
-            y:0
-            width: 800
-            height: 485
-            fillMode: Image.PreserveAspectFit
-            smooth: true
             source: "deepin-terminal.png"
         }
     }
     Slide {
         Image {
             anchors.centerIn: parent
-            id: image5
+            id: image4
             x:0
             y:0
             width: 800
@@ -79,7 +66,7 @@ Presentation
      Slide {
         Image {
             anchors.centerIn: parent
-            id: image6
+            id: image5
             x:0
             y:0
             width: 800
@@ -87,6 +74,19 @@ Presentation
             fillMode: Image.PreserveAspectFit
             smooth: true
             source: "info.png"
+        }
+    }
+    Slide {
+        Image {
+            anchors.centerIn: parent
+            id: image6
+            x:0
+            y:0
+            width: 800
+            height: 485
+            fillMode: Image.PreserveAspectFit
+            smooth: true
+            source: "dde-store.png"
         }
     }
 }
