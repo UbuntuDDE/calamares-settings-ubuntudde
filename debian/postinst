@@ -6,8 +6,7 @@
 set -e
 
 # summary of how this script can be called:
-#        * <postinst> `configure' <most-recently-configured-version>
-#        * <old-postinst> `abort-upgrade' <new version>
+#        * <postinst> `configure' <most-recently-configured-version>#        * <old-postinst> `abort-upgrade' <new version>
 #        * <conflictor's-postinst> `abort-remove' `in-favour' <package>
 #          <new-version>
 #        * <postinst> `abort-remove'
@@ -18,8 +17,8 @@ set -e
 # the debian-policy package
 
 if [ "$1" = "configure" ]; then
-    if [ -f /usr/share/applications/calamares.desktop ]; then
-       rm -rf /usr/share/applications/calamares.desktop
+    if [ -f /home/ubuntudde/Desktop/ubuntudde-calamares.desktop ]; then
+        chown -R 999:999 /home/ubuntudde/Desktop/
     fi
 fi
 

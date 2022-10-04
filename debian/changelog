@@ -1,3 +1,87 @@
+calamares-settings-ubuntudde (2.1.2.10-1) jammy; urgency=medium
+
+  * Update sidebar bg color, enable QT.
+
+ -- Arun Kumar Pariyar <openarungeek@gmail.com>  Tue, 16 Aug 2022 17:19:30 +0545
+
+calamares-settings-ubuntudde (2.1.2.9-1) jammy; urgency=medium
+
+  * Updated jammy resources.
+
+ -- Arun Kumar Pariyar <openarungeek@gmail.com>  Sat, 13 Aug 2022 13:24:51 +0545
+
+calamares-settings-ubuntudde (2.1.2.8) impish; urgency=medium
+
+  * Change sidebar color.
+
+ -- Arun Kumar Pariyar <openarungeek@gmail.com>  Tue, 07 Dec 2021 15:04:41 +0545
+
+calamares-settings-ubuntudde (2.1.2.7) impish; urgency=medium
+
+  * Add impish artworks by Ananta and disable swap.
+
+ -- Arun Kumar Pariyar <openarungeek@gmail.com>  Sun, 05 Dec 2021 23:43:08 +0545
+
+calamares-settings-ubuntudde (2.1.2.6) impish; urgency=medium
+
+  * Rebuild.
+
+ -- Arun Kumar Pariyar <openarungeek@gmail.com>  Sun, 05 Dec 2021 18:01:01 +0545
+
+calamares-settings-ubuntudde (2.1.2.5) impish; urgency=medium
+
+  * Rebuild.
+
+ -- Arun Kumar Pariyar <openarungeek@gmail.com>  Sat, 04 Dec 2021 17:21:27 +0545
+
+calamares-settings-ubuntudde (2.1.2.4) impish; urgency=medium
+
+  * Rebuild.
+
+ -- Arun Kumar Pariyar <openarungeek@gmail.com>  Sat, 04 Dec 2021 16:28:07 +0545
+
+calamares-settings-ubuntudde (2.1.2.3) impish; urgency=medium
+
+  * Rebuild.
+
+ -- Arun Kumar Pariyar <openarungeek@gmail.com>  Sat, 04 Dec 2021 13:48:46 +0545
+
+calamares-settings-ubuntudde (2.1.2.2) impish; urgency=medium
+
+  * fix postinst script.
+
+ -- Arun Kumar Pariyar <openarungeek@gmail.com>  Fri, 03 Dec 2021 19:53:54 +0545
+
+calamares-settings-ubuntudde (2.1.2.1) impish; urgency=medium
+
+  * Drop zram-config from packages.conf 
+
+ -- Arun Kumar Pariyar <openarungeek@gmail.com>  Fri, 03 Dec 2021 15:24:33 +0545
+
+calamares-settings-ubuntudde (2.1.1ubuntu1) impish; urgency=medium
+
+  * Fix calamares installer on desktop.
+
+ -- Arun Kumar Pariyar <openarungeek@gmail.com>  Sun, 21 Nov 2021 21:14:54 +0545
+
+calamares-settings-ubuntudde (2.1.1) impish; urgency=medium
+
+  * set chown to Desktop directory.
+
+ -- Arun Kumar Pariyar <openarungeek@gmail.com>  Tue, 16 Nov 2021 17:03:42 +0545
+
+calamares-settings-ubuntudde (2.1.0) impish; urgency=medium
+
+  * Release to impish.
+
+ -- Arun Kumar Pariyar <openarungeek@gmail.com>  Sat, 02 Oct 2021 00:28:08 +0545
+
+calamares-settings-ubuntudde (2.0.9-1) hirsute; urgency=medium
+
+  * Release to hirsute.
+
+ -- Arun Kumar Pariyar <openarungeek@gmail.com>  Thu, 22 Apr 2021 01:16:39 +0545
+
 calamares-settings-ubuntudde (2.0.8-2) hirsute; urgency=medium
 
   * Reupload with i386 support.
