@@ -1,6 +1,6 @@
 [Desktop Entry]
 Categories=Qt;System;
-Exec=bash -c "export BROWSER='sudo -H -u ubuntudde firefox'; sudo -E calamares"
+Exec=pkexec calamares -D6"
 Icon=/etc/calamares/branding/ubuntudde/installer.svg
 Keywords=installer;calamares;system;
 StartupNotify=true

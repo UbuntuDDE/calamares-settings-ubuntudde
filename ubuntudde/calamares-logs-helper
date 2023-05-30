@@ -6,7 +6,7 @@ root=$1
 install_dir=$root/var/log/installer
 [ -d $install_dir ] || mkdir -p $install_dir
 
-SESSION_LOG=/home/ubuntudde/.cache/calamares/session.log
+SESSION_LOG=/home/$USER/.cache/calamares/session.log
 if [[ -f "$SESSION_LOG"]]; then
         cp $SESSION_LOG $install_dir/debug
 fi

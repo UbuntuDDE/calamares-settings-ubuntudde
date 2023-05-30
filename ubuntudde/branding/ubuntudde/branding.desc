@@ -9,10 +9,10 @@ windowPlacement: center
 strings:
     productName:         UbuntuDDE Remix
     shortProductName:    UbuntuDDE
-    version:             22.04
-    shortVersion:        jammy
+    version:             23.04
+    shortVersion:        lunar
     versionedName:       UbuntuDDE
-    shortVersionedName:  UbuntuDDE 22.04
+    shortVersionedName:  UbuntuDDE 23.04
     bootloaderEntryName: ubuntu
     productUrl:          https://ubuntudde.com/
     supportUrl:          https://ubuntudde.com/support/
@@ -27,6 +27,6 @@ slideshow:               "show.qml"
 slideshowAPI:            1
 
 style:
-   sidebarBackground:    "#10559f"
-   sidebarText:          "#FFFFFF"
-   sidebarTextSelect:    "#1845a2"
+   SidebarBackground:    "#10559f"
+   SidebarText:          "#FFFFFF"
+   SidebarTextCurrent:    "#1845a2"
