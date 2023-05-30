@@ -10,9 +10,9 @@ strings:
     productName:         UbuntuDDE Remix
     shortProductName:    UbuntuDDE
     version:             22.04
-    shortVersion:        jammy
+    shortVersion:        lunar
     versionedName:       UbuntuDDE
-    shortVersionedName:  UbuntuDDE 22.04
+    shortVersionedName:  UbuntuDDE 23.04
     bootloaderEntryName: ubuntu
     productUrl:          https://ubuntudde.com/
     supportUrl:          https://ubuntudde.com/support/
